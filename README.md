@@ -1,4 +1,4 @@
-# 🔢 NumPy -  Basics to Advanced Operations
+# 🔢 NumPy -  Basics to Advanced Operations  :
 
 Welcome to the structured notes and assignments repository for the NumPy series. This document serves as a comprehensive, beginner-friendly guide covering foundational array mechanics, mathematical transformations, data manipulation pipelines, and advanced structural arrangement tools.
 
